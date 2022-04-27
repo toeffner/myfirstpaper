@@ -1,5 +1,5 @@
 # myfirstpaper
-A paper on my results on software carpentreologoy for the greater good. 
+A paper on my fucking results that are so important for software carpentreologoy for the greater good. 
 
 ## Abstract
 Im such a fucking bro, i love it.
